@@ -1,6 +1,4 @@
-### Hey there 👋
-
-## I'm Vivan!
+## Hey there, I'm Vivan! 👋
 
 - 🔭 I’m currently working on The Odin Project. More specifically, the landing page project on TOP.
 - 🌱 I’m currently learning how to build web applications uisng HTML5 and CSS3.
