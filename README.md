@@ -7,3 +7,7 @@
 ## Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,py,replit,vscode)](https://skillicons.dev)
+
+## Stats
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevVivan)](https://github.com/anuraghazra/github-readme-stats)
