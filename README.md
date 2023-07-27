@@ -6,7 +6,7 @@
 
 ## My Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,py,replit,vscode,webpack,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,git,py,replit,vscode,webpack,figma,npm)](https://skillicons.dev)
 
 ## My Github Stats
 
