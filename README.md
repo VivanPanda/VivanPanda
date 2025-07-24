@@ -6,4 +6,4 @@
 
 ## My Github Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevVivan)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=VivanPanda)](https://github.com/anuraghazra/github-readme-stats)
