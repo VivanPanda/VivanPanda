@@ -1,5 +1,7 @@
 # Hey there, I'm Vivan! 👋
 
+![](https://komarev.com/ghpvc/?username=VivanPanda)
+
 ## My Skills
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,git,py,replit,vscode,webpack,figma)](https://skillicons.dev)
